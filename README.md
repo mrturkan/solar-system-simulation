@@ -17,7 +17,7 @@ This project simulates the motion of celestial bodies in a solar system using Ne
 ## Usage
 1. Run the simulation.
 2. Observe the planetary orbits.
-3. Modify the initial conditions in the `Simulation` or `SolarBody` classes to explore different scenarios.
+3. Modify the initial conditions in the `MyPanel` or `SolarBody` classes to explore different scenarios.
 
 ## How It Works
 ### Physics Model
