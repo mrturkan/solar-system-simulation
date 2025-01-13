@@ -23,7 +23,7 @@ This project simulates the motion of celestial bodies in a solar system using Ne
 ### Physics Model
 - **Gravitational Force:**
   
-  \[ F = \frac{G \cdot m_1 \cdot m_2}{r^2} \]
+  $\[ F = \frac{G \cdot m_1 \cdot m_2}{r^2} \]$
   
   Each celestial body attracts every other body with a force proportional to their masses and inversely proportional to the square of the distance between them.
 
