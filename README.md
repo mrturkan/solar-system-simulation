@@ -12,7 +12,6 @@ This project simulates the motion of celestial bodies in a solar system using Ne
 
 ## Technologies Used
 - **Java 17 or higher**
-- **JavaFX** for graphical rendering
 
 ## Usage
 1. Run the simulation.
