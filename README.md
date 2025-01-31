@@ -10,9 +10,6 @@ This project simulates the motion of celestial bodies in a solar system using Ne
   - Euler integration for updating positions and velocities.
 - Scalable rendering with visually distinct colors for planets.
 
-## Technologies Used
-- **Java 17 or higher**
-
 ## Usage
 1. Run the simulation.
 2. Observe the planetary orbits.
