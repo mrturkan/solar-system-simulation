@@ -1,7 +1,7 @@
 # Solar System Simulation
 
 ## Overview
-This project simulates the motion of celestial bodies in a solar system using Newton's laws of motion and universal gravitation. The simulation is implemented in Java using JavaFX for rendering. Users can observe the orbits of planets around the sun, represented with scaled distances and velocities for better visualization.
+This project simulates the motion of celestial bodies in a solar system using Newton's laws of motion and universal gravitation. Users can observe the orbits of planets around the sun, represented with scaled distances and velocities for better visualization.
 
 ## Features
 - Real-time simulation of planetary orbits.
